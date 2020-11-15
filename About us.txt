@@ -1,0 +1,94 @@
+<!DOCTYPE HTML>
+<html>
+<body>
+<style>
+
+h1   {color: white;}
+h4   {color: white;}
+p    {color: black;}
+</style>
+
+
+
+<div id="container">
+
+</div>
+
+<head>
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1,shrink-to-fit=no">
+
+<title>A Web Page with Document-level Styles</title>
+<style type="text/css">
+body { font-family: Gabriola;
+       font-size: 120%;
+       color: black;
+       background-color: white; }
+h1   { font-family: Gabriola; font-size: 300%; text-align: center; }
+h2   { font-family: Georgia;font-size: 250%; text-align: left; }
+h3   { font-family: Georgia;font-size: 120%; text-align: center; }
+h4   { font-family: Georgia;font-size: 80%; text-align: center; }
+p    { font-size: 80%; text-align: left; }
+
+</style>
+</head>
+
+<body>
+
+<img src="Photos/r1.jpg" style="width:250px;height:250px;"/> <img src="Photos/r2.jpg" style="width:250px;height:250px;"/> <img src="Photos/r3.jpg" style="width:250px;height:250px;"/> <img src="Photos/r4.jpg" style="width:250px;height:250px;"/> <img src="Photos/r5.jpg" style="width:250px;height:250px;"/> <img src="Photos/r6.jpg" style="width:230px;height:250px;"/>
+
+
+
+<h2> About Us</h2>
+<p>
+
+Hello and welcome to Simply Recipes!
+Thank you so much for stopping by the site! If you are new to Simply Recipes, the one thing you should know about us is that we are obsessed with creating scratch cooking recipes that you will love.
+
+Recipes that work
+There are two things we think about when deciding if a recipe is good enough to go on the site.
+
+First, does it work? Does the dish make us smile inside and out? Do we want to eat the whole batch by ourselves? 
+
+Second, if the dish tastes great, is it worth the effort? Do we want to make it again (and again and again)?
+
+This is what we strive for—recipes you can rely on to work every time and be worth your time, effort, and $$ to make!
+
+Our goal is to encourage people to cook at home, and to make the process of feeding your family and loved ones less intimidating and more enjoyable.
+
+Our recipes are all tested in our own home kitchens, usually several times.
+
+
+</p>
+
+</h2>
+
+</section>
+
+<br>
+
+<h3>
+<a href="index.html"> Click here to go to home page </a>
+</h3> 
+
+<br>
+
+<div style="background-color:black;height:50px;">
+
+<footer>
+<h4>Copyright © 2020 Vithan's - All Rights Reserved 
+<br>
+Website Developed by Kavi Technovations</h4>
+
+</footer>
+
+</div>
+
+
+</body>
+</html>
+
+
+
+
